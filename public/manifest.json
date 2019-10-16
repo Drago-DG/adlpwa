@@ -1,0 +1,15 @@
+{
+ "short_name": "adlpwa",
+ "name": "PWA ADL",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "teal",
+ "theme_color": "#black",
+ "icons": [
+   {
+     "src": "https://cdn2.iconfinder.com/data/icons/dinosaur/512/dragon-born-child-round-512.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
