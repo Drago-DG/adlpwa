@@ -1,15 +1,16 @@
 {
- "short_name": "adlpwa",
- "name": "PWA ADL",
- "start_url": "/index.html",
- "display": "standalone",
- "background_color": "teal",
- "theme_color": "#black",
- "icons": [
-   {
-     "src": "https://cdn2.iconfinder.com/data/icons/dinosaur/512/dragon-born-child-round-512.png",
-     "sizes": "1024x1024",
-     "type": "image/png"
+    "short_name": "adlpwa",
+    "name": "Ejemplo de PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#040404",
+    "theme_color": "#3DC052",
+    "icons": [
+      {
+        "src": "img/logo.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ]
    }
- ]
-}
+   
